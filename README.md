@@ -21,12 +21,15 @@ Train
 
 A streamlit app has also been included to demo the built model. 
 The model gives results with an accuracy of 95%
+
+![image](https://drive.google.com/uc?export=view&id=1jFn49MFFvOsHVuZ3fOnwhoOiNSOGMjMm)
+
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://https://github.com/dhananjay-deshmukh/Malaria-prediction-.git
+  git clone https://https://github.com/dhananjay-deshmukh/Malaria-prediction-Using-CNN.git
 ```
 
 Go to the project directory
@@ -48,3 +51,9 @@ Run the app
 ```
 
 Upload any cell image from the "test" folder downloaded earlier and click "predict now".
+
+##Demo Screenshot
+
+
+![image](https://drive.google.com/uc?export=view&id=1opQhNfq-M2cUAyhR10d8nAMXCIwOWW3S)
+
