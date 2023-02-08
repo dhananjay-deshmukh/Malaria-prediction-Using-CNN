@@ -52,7 +52,7 @@ Run the app
 
 Upload any cell image from the "test" folder downloaded earlier and click "predict now".
 
-##Demo Screenshot
+## Demo Screenshot
 
 
 ![image](https://drive.google.com/uc?export=view&id=1opQhNfq-M2cUAyhR10d8nAMXCIwOWW3S)
