@@ -18,8 +18,7 @@ model = tensorflow.keras.models.load_model("malaria_prediction.h5")
 def preprocessing(img):
     try:
         img = img.astype('uint8')
-        # img = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
-        # img = cv2.equalizeHist(img)
+       
         img = img/255
         return img
     except Exception as e:
@@ -55,9 +54,7 @@ def main():
                     st.write("The cell is not infected!")
                 else:
                     st.write("The cell has been parasitized!")
-                # classIndex = model.predict_classes(img)
-                # st.write(classIndex)
-                # st.write(prediction)
+                
                
                
             except Exception as e:
